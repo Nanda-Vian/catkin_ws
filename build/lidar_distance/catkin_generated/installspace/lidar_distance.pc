@@ -1,0 +1,8 @@
+prefix=/home/vian/Tugas-akhir/catkin_ws/install
+
+Name: lidar_distance
+Description: Description of lidar_distance
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

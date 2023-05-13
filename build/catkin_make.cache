@@ -1,0 +1,2 @@
+lidar_distance:rplidar_ros:rtabmap_ros:zed-ros-wrapper/zed-ros-interfaces:zed-ros-wrapper/zed_nodelets:zed-ros-wrapper/zed_ros:zed-ros-wrapper/zed_wrapper
+-DCATKIN_DEVEL_PREFIX=/home/vian/Tugas-akhir/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vian/Tugas-akhir/catkin_ws/install -G Unix Makefiles
